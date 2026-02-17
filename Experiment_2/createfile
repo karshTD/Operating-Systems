@@ -1,0 +1,4 @@
+mkdir salary_assignment
+cd salary_assignment
+
+nano utkarsh_salary.sh
