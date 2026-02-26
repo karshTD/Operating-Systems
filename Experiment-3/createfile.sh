@@ -1,0 +1,3 @@
+mkdir decision_assignment
+cd decision_assignment
+nano utkarsh_decision.sh
