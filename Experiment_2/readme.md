@@ -24,3 +24,5 @@ This assignment demonstrates basic arithmetic, geometric, and salary calculation
 4. Mean salary calculation
    - Employees salaries: 1200, 1400, 1350, 1800
    - Calculates average salary
+
+many more functions using if else etc.
